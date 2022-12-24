@@ -1,0 +1,147 @@
+
+
+.navbar-brand{
+    width: 15%;
+}
+
+.theme-text{
+    color: #080808 !important;
+}
+
+#get-started-button{
+    border: 1px solid #080808;
+    background-color: #080808;
+    color: #fff !important;
+    border-radius: 50px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#start-reading-button:hover{
+    background-color: #292929;
+}
+
+#start-reading-button{
+    border: 1px solid #080808;
+    background-color: #080808;
+    color: #fff !important;
+    border-radius: 50px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 50px;
+    font-weight: 500;
+}
+#get-started-button:hover{
+    background-color: #292929;
+}
+
+.navbar{
+    padding-left: 40px;
+    padding-right: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #000;
+    font-size: 15px;
+    background-color: inherit;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p.lead{
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.jumbotron{
+    border-bottom: 1px solid #000;
+}
+
+.trend-label{
+    font-size: 13px;
+    margin-left: 10px;
+}
+
+.trend-number{
+    color: rgb(218, 218, 218);
+    font-weight: bold;
+}
+
+.user-icons{
+    border-radius: 100px;
+}
+
+.trend-time-read{
+    color: rgb(99, 99, 99);
+    font-size: 14px;
+}
+
+.trend-anchor, .trend-anchor:hover{
+    color: #080808;
+    text-decoration: none;
+}
+
+main{
+    border-bottom: 1px solid rgb(165, 165, 165);
+}
+
+.faded-black{
+    color: rgb(117, 117, 117);
+}
+
+.bottom-title{
+    font-size: 14px;
+}
+
+.bottom-title-2{
+    font-size: 22px;
+}
+
+.tag{
+    color: #535353;
+    background-color: rgb(211, 211, 211);
+    margin-left: 5px;
+    border-radius: 10px;
+    padding: 5px;
+    font-size: 12px;
+}
+
+.tag:hover{
+    text-decoration: none;
+    color: #080808;
+    background-color: rgb(230, 230, 230);
+}
+
+.more-tags{
+    color: #535353;
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px solid rgb(165, 165, 165);
+    font-size: 12px;
+}
+
+.more-tags:hover{
+    text-decoration: none;
+    color: #535353;
+}
+
+.bookmark-icon{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.right-footer{
+    color: #535353;
+    margin-right: 8px;
+    font-size: 14px;
+}
+
+.right-footer:hover{
+    color: #535353;
+    text-decoration: none;
+}
